@@ -12,3 +12,7 @@ which python
 
 python -V
 
+conda activate mlops_01
+
+
+
