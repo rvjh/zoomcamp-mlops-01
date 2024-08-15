@@ -14,5 +14,11 @@ python -V
 
 conda activate mlops_01
 
+dataset : https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-01.parquet
+
+
+
+
+
 
 
