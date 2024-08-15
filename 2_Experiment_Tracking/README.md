@@ -14,4 +14,10 @@ mlflow.set_tracking_uri("sqlite:///mlflow.db")
 
 mlflow.set_experiment("exp-1")
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 
