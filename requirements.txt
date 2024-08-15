@@ -4,3 +4,6 @@ scikit-learn
 pyarrow
 seaborn
 pandas
+mlflow
+hyperopt
+xgboost
