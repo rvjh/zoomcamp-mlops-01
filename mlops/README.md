@@ -24,9 +24,32 @@ now inside [src/mlproject/utils/__init__.py]](src/mlproject/__init__.py) write l
 
 [src/mlproject/utils/common.py](src/mlproject/utils/common.py) -> functionalities you will use frequently in the code to use
 
+Workflows : 
+
+1. update [config/config.yaml](config/config.yaml)
+
+2. update [schema.yaml](schema.yaml)
+
+3. update [params.yaml](params.yaml)
+
+4. update entity [config_entity](src/mlproject/entity/config_entity.py)
+
+5. update configuration manager in src config [text](src/mlproject/config/configuration.py)
+
+6. update components 
+
+7. update pipeline
+
+8. update [main](main.py)
+
+9. update [app](app.py)
 
 
+in research create 
 
+- [01_data_ingestion](research/01_data_ingestion.ipynb) for basic exploratory
+
+- 
 
 
 
