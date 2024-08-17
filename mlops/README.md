@@ -20,6 +20,12 @@ now install libraties -> pip install -r requirements.txt
 
 push the changes to git
 
+now inside [src/mlproject/utils/__init__.py]](src/mlproject/__init__.py) write logging functionality  -> a logging folder will be created and in case if you have any issue for deploying in cloud - you can download the code and analyze
+
+[src/mlproject/utils/common.py](src/mlproject/utils/common.py) -> functionalities you will use frequently in the code to use
+
+
+
 
 
 
