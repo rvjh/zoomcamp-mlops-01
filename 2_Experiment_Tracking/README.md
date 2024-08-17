@@ -20,4 +20,9 @@ mlflow.set_experiment("exp-1")
 
 ![alt text](image-2.png)
 
+let this model worked best in terms of size, time, rmse
+
+![alt text](image-3.png)
+
+thwn we can register the model
 

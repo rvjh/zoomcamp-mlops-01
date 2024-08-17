@@ -15,6 +15,6 @@ flavors:
     xgb_version: 2.1.1
 mlflow_version: 2.15.1
 model_size_bytes: 1213411
-model_uuid: b5f12ceec4e848e98ac1d1cd35e7d2fe
-run_id: c7c131ee9b5e4fee832ba0d92ebba4cf
-utc_time_created: '2024-08-15 12:20:14.786514'
+model_uuid: b890eed4a76a464d95a6850d1bb119ba
+run_id: 13d5115b4a2346c4a133a490f6cdc6fe
+utc_time_created: '2024-08-17 07:22:05.762195'
